@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!!!!!!!!@dude whatsup Hi World, kb tak bhai!!!!!!!!!!!!!</h2>
+<h2>Hello World, sky is the limit</h2>
 </body>
 </html>
